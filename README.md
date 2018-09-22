@@ -1,5 +1,5 @@
 # Smooth scroll extension
-Smooth scroll extension make with javascript vanilla
+Smooth scroll extension made with javascript vanilla
 
 ## Usage
 ```javascript
